@@ -42,7 +42,7 @@ export default function Section2() {
                                         </div>
                                     </div>
                                 </div>
-                                <h6 className="mb-0 mt-5">"Harry helped our son enormously with his maths and economics iGCSE prep. He was patient, fun and engaging - just what we needed. Highly recommended."</h6>
+                                <h6 className="mb-0 mt-5">"The Degree Gap helped our son enormously with his maths and economics iGCSE prep. They were patient, fun and engaging - just what we needed. Highly recommended."</h6>
                             </div>
                         </div>
                         <div className="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay={400}>
@@ -57,7 +57,7 @@ export default function Section2() {
                                         </div>
                                     </div>
                                 </div>
-                                <h6 className="mb-0 mt-5">"Harry has been very helpful in tutoring my son for his economics A Level. He has lots of patience, keeps lessons interesting and is a good motivator. Needless to say his subject matter expertise is excellent."</h6>
+                                <h6 className="mb-0 mt-5">"The Degree Gap has been very helpful in tutoring my son for his economics A Level. They have lots of patience, keeps lessons interesting and is a good motivator. Needless to say their subject matter expertise is excellent."</h6>
                             </div>
                         </div>
                         <div className="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay={0}>
@@ -72,7 +72,7 @@ export default function Section2() {
                                         </div>
                                     </div>
                                 </div>
-                                <h6 className="mb-0 mt-5">"Had troubles connecting with tutors until I met Harry, helped me understand the curriculum and theories in a way that stuck with me, also made each session feel calm and relaxing. Highly recommend."</h6>
+                                <h6 className="mb-0 mt-5">"Had troubles connecting with tutors until I met The Degree Gap, helped me understand the curriculum and theories in a way that stuck with me, also made each session feel calm and relaxing. Highly recommend."</h6>
                             </div>
                         </div>
                         <div className="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay={200}>
@@ -87,7 +87,7 @@ export default function Section2() {
                                         </div>
                                     </div>
                                 </div>
-                                <h6 className="mb-0 mt-5">"I cannot recommend Harry enough. He was helpful welcoming and helped me achieve a grade higher than I was expected!"</h6>
+                                <h6 className="mb-0 mt-5">"I cannot recommend The Degree Gap enough. They were helpful welcoming and helped me achieve a grade higher than I was expected!"</h6>
                             </div>
                         </div>
                         <div className="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay={400}>
@@ -102,7 +102,7 @@ export default function Section2() {
                                         </div>
                                     </div>
                                 </div>
-                                <h6 className="mb-0 mt-5">"Harry helped me with writing a personal statement for a masters degree. The advice he offered helped significantly, giving great insight. I would definitely recommend him to others."</h6>
+                                <h6 className="mb-0 mt-5">"The Degree Gap helped me with writing a personal statement for a masters degree. The advice they offered helped significantly, giving great insight. I would definitely recommend them to others."</h6>
                             </div>
                         </div>
                         <div className="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay={0}>
@@ -132,7 +132,7 @@ export default function Section2() {
                                         </div>
                                     </div>
                                 </div>
-                                <h6 className="mb-0 mt-5">"Harry was an excellent teacher that helped me gain real grip of the complicated areas in my subjects like economics - I'd highly recommend for anyone looking to consistently perform at their best."</h6>
+                                <h6 className="mb-0 mt-5">"The Degree Gap was an excellent teacher that helped me gain real grip of the complicated areas in my subjects like economics - I'd highly recommend for anyone looking to consistently perform at their best."</h6>
                             </div>
                         </div>
                         <div className="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay={400}>
@@ -147,7 +147,7 @@ export default function Section2() {
                                         </div>
                                     </div>
                                 </div>
-                                <h6 className="mb-0 mt-5">"I was struggling with my Business degree and reached out to Harry who helped me pass my Quantitative Analysis module. Highly recommend."</h6>
+                                <h6 className="mb-0 mt-5">"I was struggling with my Business degree and reached out to The Degree Gap who helped me pass my Quantitative Analysis module. Highly recommend."</h6>
                             </div>
                         </div>
                     </div>
