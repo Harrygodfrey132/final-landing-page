@@ -70,7 +70,7 @@ export default function MainMenu() {
                         </Link>
                     </li>
                     <li>
-                        <Link className="dropdown-item text-capitalize gap-2 py-3 border-bottom" href="https://www.thedegreegap.com/teachers/languages/A-Level-Maths">
+                        <Link className="dropdown-item text-capitalize gap-2 py-3 border-bottom" href="https://www.thedegreegap.com/teachers/languages/A-level-Maths">
                             <svg xmlns="http://www.w3.org/2000/svg" width={32} height={32} viewBox="0 0 32 32" fill="none">
                                 <path
                                     d="M29.1875 1H2.8125C1.26172 1 0 2.26172 0 3.8125V22.5625C0 24.1133 1.26172 25.375 2.8125 25.375H10.9492L9.69922 29.125H6.625C6.10718 29.125 5.6875 29.5447 5.6875 30.0625C5.6875 30.5803 6.10718 31 6.625 31H25.375C25.8928 31 26.3125 30.5803 26.3125 30.0625C26.3125 29.5447 25.8928 29.125 25.375 29.125H22.3008L21.0508 25.375H29.1875C30.7383 25.375 32 24.1133 32 22.5625V3.8125C32 2.26172 30.7383 1 29.1875 1ZM11.6758 29.125L12.9258 25.375H19.0742L20.3242 29.125H11.6758ZM30.125 22.5625C30.125 23.0793 29.7043 23.5 29.1875 23.5C27.7712 23.5 4.23608 23.5 2.8125 23.5C2.29565 23.5 1.875 23.0793 1.875 22.5625V21.625H30.125V22.5625ZM30.125 19.75H1.875V3.8125C1.875 3.29565 2.29565 2.875 2.8125 2.875H29.1875C29.7043 2.875 30.125 3.29565 30.125 3.8125V19.75Z"

@@ -69,7 +69,7 @@ export default function Section1() {
                                                     <p className="mb-0">Student</p>
                                                 </div>
                                             </div>
-                                            <h6 className="mb-0 mt-4">"Harry Godfrey transformed my performance in mathematical economics modules—such as microeconomics, macroeconomics, and statistics and maths for economics—taking me from a third class (or lower) to a first. I know for a fact that his support helped me exceed my expectations, thanks to his patience and ability to adapt to my needs."</h6>
+                                            <h6 className="mb-0 mt-4">"The Degree Gap transformed my performance in mathematical economics modules—such as microeconomics, macroeconomics, and statistics and maths for economics—taking me from a third class (or lower) to a first. I know for a fact that his support helped me exceed my expectations, thanks to his patience and ability to adapt to my needs."</h6>
                                         </div>
                                     </SwiperSlide>
                                     <SwiperSlide>
@@ -82,7 +82,7 @@ export default function Section1() {
                                                     <p className="mb-0">Student</p>
                                                 </div>
                                             </div>
-                                            <h6 className="mb-0 mt-4">"Harry has been a game-changer in my academic journey. After a tough first year due to the coronavirus, Harry's tutoring in economics and mathematics turned things around for me. His knowledge and clear teaching style made complex concepts easy to understand. Thanks to his guidance, I've now secured my dream job. I would definitely recommend 'The Degree Gap' for anyone looking to excel in their studies."</h6>
+                                            <h6 className="mb-0 mt-4">"The Degree Gap has been a game-changer in my academic journey. After a tough first year due to the coronavirus, their tutoring in economics and mathematics turned things around for me. Their knowledge and clear teaching style made complex concepts easy to understand. Thanks to their guidance, I've now secured my dream job. I would definitely recommend 'The Degree Gap' for anyone looking to excel in their studies."</h6>
                                         </div>
                                     </SwiperSlide>
                                     <SwiperSlide>
@@ -95,7 +95,7 @@ export default function Section1() {
                                                     <p className="mb-0">Student</p>
                                                 </div>
                                             </div>
-                                            <h6 className="mb-0 mt-4">"Harry did an amazing job at supporting me with my statistics module in my first year of uni, thanks to him my second year was a breeze as everything he taught me stuck with me. Harry explains things really well with different examples, as a visual learner I appreciated that Harry wrote everything out for me and didn't just explain verbally. I would definitely recommend him to anyone and I will for sure keep him in mind if I ever need help again."</h6>
+                                            <h6 className="mb-0 mt-4">"The Degree Gap did an amazing job at supporting me with my statistics module in my first year of uni, thanks to them my second year was a breeze as everything they taught me stuck with me. The Degree Gap explains things really well with different examples, as a visual learner I appreciated that The Degree Gap wrote everything out for me and didn't just explain verbally. I would definitely recommend them to anyone and I will for sure keep them in mind if I ever need help again."</h6>
                                         </div>
                                     </SwiperSlide>
                                     <SwiperSlide>
@@ -108,7 +108,7 @@ export default function Section1() {
                                                     <p className="mb-0">Student</p>
                                                 </div>
                                             </div>
-                                            <h6 className="mb-0 mt-4">"I was having trouble with some areas of my economics a level course before getting in contact with Harry. He walked me through everything I needed help with, from content I was weak with to exam technique that I was lacking. His insight, examples and willingness to go the extra step really helped me to regain my confidence in economics, having achieved a predicted a* with his help."</h6>
+                                            <h6 className="mb-0 mt-4">"I was having trouble with some areas of my economics a level course before getting in contact with The Degree Gap. They walked me through everything I needed help with, from content I was weak with to exam technique that I was lacking. Their insight, examples and willingness to go the extra step really helped me to regain my confidence in economics, having achieved a predicted a* with their help."</h6>
                                         </div>
                                     </SwiperSlide>
                                 </div>
