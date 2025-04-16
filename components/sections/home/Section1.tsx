@@ -34,12 +34,12 @@ export default function Section1() {
                 <div className="container position-relative z-1">
                     <div className="row align-items-center">
                         <div className="col-lg-6 col-md-12">
-                            <h1 className="text-dark mt-2 display-3 fw-bold">GCSE and A-level Tutoring Specialists</h1>
+                            <h1 className="text-dark mt-2 display-1 fw-bold" style={{ fontSize: '4.5rem', lineHeight: '1.2', marginBottom: '1.5rem' }}>GCSE and A-level Tutoring Specialists</h1>
                             <ul className="list-unstyled">
                                 <li className="mb-2">✓ Pay-As-You-Go, Zero Commitments</li>
                                 <li className="mb-2">✓ 50+ Expert and Qualified Tutors</li>
                                 <li className="mb-2">✓ All Subjects covered under the GCSE and A-level syllabus</li>
-                                <li className="mb-2">✓ Custom built software built for tutoring</li>
+                                <li className="mb-2">✓ Custom built tutoring platform</li>
                             </ul>
                             <div className="mb-3 mt-4 position-relative">
                                 <Link href="tel:+447986965776" className="btn fs-7 fw-bold" style={{ backgroundColor: '#FFD700', color: '#000', border: '1px solid #FFD700', textDecoration: 'none' }}>

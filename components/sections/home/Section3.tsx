@@ -10,8 +10,8 @@ export default function Section3() {
                         <div className="col-lg-12">
                             <div className="d-flex flex-wrap justify-content-between align-items-center py-4">
                                 <h4 className="mt-2 mb-5 text-anime-style-3 px-3" style={{ color: 'rgba(33, 37, 41, 0.85)' }}>
-                                Helping students achieve their dream  <br/>
-                                GCSE and A-level grades. Contact us today!
+                                Join hundreds who improved by 2+ grades. <br/>
+                                Book your free consultation today!
                                 </h4>
                                 <Link href="tel:+447986965776" className="btn btn-outline-secondary" style={{ backgroundColor: '#FFD700', color: '#000', borderColor: '#FFD700' }}>
                                     <span>get in touch</span>
