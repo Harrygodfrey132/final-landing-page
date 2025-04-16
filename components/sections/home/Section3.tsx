@@ -8,18 +8,13 @@ export default function Section3() {
                 <div className="container position-relative z-1">
                     <div className="row">
                         <div className="col-lg-12">
-                            <div className="d-flex flex-wrap justify-content-between align-items-center py-1">
-                                <h4 className="mt-1 mb-3 text-anime-style-3 px-2" style={{ color: 'rgba(33, 37, 41, 0.85)', fontSize: '1.5rem' }}>
+                            <div className="d-flex flex-wrap justify-content-between align-items-center py-8">
+                                <h4 className="mt-4 mb-5 text-anime-style-3 px-6" style={{ color: 'rgba(33, 37, 41, 0.85)', fontSize: '2.5rem', fontWeight: '700', lineHeight: '1.3', letterSpacing: '0.5px' }}>
                                 Join hundreds who improved by 2+ grades. <br/>
                                 Book your free consultation today!
                                 </h4>
-                                <Link href="tel:+447986965776" className="btn btn-outline-secondary" style={{ backgroundColor: '#FFD700', color: '#000', borderColor: '#FFD700' }}>
-                                    <span>get in touch</span>
-                                    <svg xmlns="http://www.w3.org/2000/svg" width={16} height={16} viewBox="0 0 16 16" fill="none">
-                                        <g clipPath="url(#clip0_816_117)">
-                                            <path d="M15.8167 7.55759C15.8165 7.5574 15.8163 7.55719 15.8161 7.557L12.5504 4.307C12.3057 4.06353 11.91 4.06444 11.6665 4.30912C11.423 4.55378 11.4239 4.9495 11.6686 5.193L13.8612 7.375H0.625C0.279813 7.375 0 7.65481 0 8C0 8.34519 0.279813 8.625 0.625 8.625H13.8612L11.6686 10.807C11.4239 11.0505 11.423 11.4462 11.6665 11.6909C11.91 11.9356 12.3058 11.9364 12.5504 11.693L15.8162 8.443C15.8163 8.44281 15.8165 8.44259 15.8167 8.4424C16.0615 8.19809 16.0607 7.80109 15.8167 7.55759Z" fill="#000000" />
-                                        </g>
-                                    </svg>
+                                <Link href="https://cal.com/thedegreegap/15min" className="btn btn-outline-secondary" style={{ backgroundColor: '#FFD700', color: '#000', borderColor: '#FFD700' }}>
+                                    <span>Schedule a Call</span>
                                 </Link>
                             </div>
                         </div>
