@@ -56,7 +56,7 @@ export default function Section7() {
                     <div className="row flex-wrap align-items-end">
                         <div className="col-lg-5">
                             <p className="text-dark btn-text rounded-3 border border-primary px-2 py-1 bg-white d-inline-block">testimonials</p>
-                            <h2 className="text-dark mb-0 d-block text-anime-style-2">
+                            <h2 className="text-dark mb-0 d-block">
                                 Loved by <span className="text-primary">our customers</span>
                             </h2>
                         </div>
@@ -88,7 +88,7 @@ export default function Section7() {
                         <Swiper {...swiperOptions} className="swiper slider-3">
                             <div className="swiper-wrapper z-1">
                                 <SwiperSlide>
-                                    <div className="card-testimonial rounded-4 p-5 mb-lg-0 mb-5" data-aos="fade-up" data-aos-delay={0}>
+                                    <div className="card-testimonial rounded-4 p-5 mb-lg-0 mb-5">
                                         <div className="founder d-flex justify-content-between border-bottom pb-5">
                                             <div className="d-flex align-items-center">
                                                 <div className="text-start">
@@ -111,7 +111,7 @@ export default function Section7() {
                                     </div>
                                 </SwiperSlide>
                                 <SwiperSlide>
-                                    <div className="card-testimonial rounded-4 p-5 mb-lg-0 mb-5" data-aos="fade-up" data-aos-delay={200}>
+                                    <div className="card-testimonial rounded-4 p-5 mb-lg-0 mb-5">
                                         <div className="founder d-flex justify-content-between border-bottom pb-5">
                                             <div className="d-flex align-items-center">
                                                 <div className="text-start">
@@ -134,7 +134,7 @@ export default function Section7() {
                                     </div>
                                 </SwiperSlide>
                                 <SwiperSlide>
-                                    <div className="card-testimonial rounded-4 p-5 mb-lg-0 mb-5" data-aos="fade-up" data-aos-delay={400}>
+                                    <div className="card-testimonial rounded-4 p-5 mb-lg-0 mb-5">
                                         <div className="founder d-flex justify-content-between border-bottom pb-5">
                                             <div className="d-flex align-items-center">
                                                 <div className="text-start">
@@ -157,7 +157,7 @@ export default function Section7() {
                                     </div>
                                 </SwiperSlide>
                                 <SwiperSlide>
-                                    <div className="card-testimonial rounded-4 p-5 mb-lg-0 mb-5" data-aos="fade-up" data-aos-delay={600}>
+                                    <div className="card-testimonial rounded-4 p-5 mb-lg-0 mb-5">
                                         <div className="founder d-flex justify-content-between border-bottom pb-5">
                                             <div className="d-flex align-items-center">
                                                 <div className="text-start">
@@ -184,11 +184,11 @@ export default function Section7() {
                         {/* Swiper JS */}
                     </div>
                     <div className="row text-center justify-content-center mt-7">
-                        <h6 className="text-primary mb-0 text-anime-style-2">
+                        <h6 className="text-primary mb-0">
                         Hundreds of happy customers <span className="text-dark"> have trusted us.</span>
                         </h6>
                         <div>
-                            <Link href="https://www.cal.com/thedegreegap/15min" className="btn btn-warning mt-5" data-aos="zoom-in" data-aos-delay={400}>
+                            <Link href="https://www.cal.com/thedegreegap/15min" className="btn btn-warning mt-5">
                                 <span>Book a call now!</span>
                                 <svg xmlns="http://www.w3.org/2000/svg" width={16} height={16} viewBox="0 0 16 16" fill="none">
                                     <g clipPath="url(#clip0_816_117)">

@@ -8,14 +8,14 @@ export default function Section2() {
                 <div className="container">
                     <div className="row">
                         <div className="text-center col-lg-8 mx-auto mb-8">
-                            <h2 className="mb-4 text-anime-style-3">
+                            <h2 className="mb-4">
                                 Transform your academic journey with expert <span className="text-primary">tutoring</span> services.
                             </h2>
                             <p className="wow img-custom-anim-top">Our experienced tutors are committed to helping students achieve their academic goals, from GCSE , A-level to University level in all subjects.</p>
                         </div>
                     </div>
                     <div className="row g-4">
-                        <div className="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay={0}>
+                        <div className="col-lg-4 col-md-6">
                             <div className="card-testimonial rounded-4 p-5 mb-lg-0 mb-5 h-100">
                                 <div className="founder d-flex justify-content-between border-bottom pb-5">
                                     <div className="d-flex align-items-center">
@@ -30,7 +30,7 @@ export default function Section2() {
                                 <h6 className="mb-0 mt-5">"They provide a really professional and supportive service. I would definitely recommend their tutoring to anyone looking for academic help."</h6>
                             </div>
                         </div>
-                        <div className="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay={200}>
+                        <div className="col-lg-4 col-md-6">
                             <div className="card-testimonial rounded-4 p-5 mb-lg-0 mb-5 h-100">
                                 <div className="founder d-flex justify-content-between border-bottom pb-5">
                                     <div className="d-flex align-items-center">
@@ -45,7 +45,7 @@ export default function Section2() {
                                 <h6 className="mb-0 mt-5">"The Degree Gap helped our son enormously with his maths and economics iGCSE prep. They were patient, fun and engaging - just what we needed. Highly recommended."</h6>
                             </div>
                         </div>
-                        <div className="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay={400}>
+                        <div className="col-lg-4 col-md-6">
                             <div className="card-testimonial rounded-4 p-5 mb-lg-0 mb-5 h-100">
                                 <div className="founder d-flex justify-content-between border-bottom pb-5">
                                     <div className="d-flex align-items-center">
@@ -60,7 +60,7 @@ export default function Section2() {
                                 <h6 className="mb-0 mt-5">"The Degree Gap has been very helpful in tutoring my son for his economics A Level. They have lots of patience, keeps lessons interesting and is a good motivator. Needless to say their subject matter expertise is excellent."</h6>
                             </div>
                         </div>
-                        <div className="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay={0}>
+                        <div className="col-lg-4 col-md-6">
                             <div className="card-testimonial rounded-4 p-5 mb-lg-0 mb-5 h-100">
                                 <div className="founder d-flex justify-content-between border-bottom pb-5">
                                     <div className="d-flex align-items-center">
@@ -75,7 +75,7 @@ export default function Section2() {
                                 <h6 className="mb-0 mt-5">"Had troubles connecting with tutors until I met The Degree Gap, helped me understand the curriculum and theories in a way that stuck with me, also made each session feel calm and relaxing. Highly recommend."</h6>
                             </div>
                         </div>
-                        <div className="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay={200}>
+                        <div className="col-lg-4 col-md-6">
                             <div className="card-testimonial rounded-4 p-5 mb-lg-0 mb-5 h-100">
                                 <div className="founder d-flex justify-content-between border-bottom pb-5">
                                     <div className="d-flex align-items-center">
@@ -90,7 +90,7 @@ export default function Section2() {
                                 <h6 className="mb-0 mt-5">"I cannot recommend The Degree Gap enough. They were helpful welcoming and helped me achieve a grade higher than I was expected!"</h6>
                             </div>
                         </div>
-                        <div className="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay={400}>
+                        <div className="col-lg-4 col-md-6">
                             <div className="card-testimonial rounded-4 p-5 mb-lg-0 mb-5 h-100">
                                 <div className="founder d-flex justify-content-between border-bottom pb-5">
                                     <div className="d-flex align-items-center">
@@ -105,7 +105,7 @@ export default function Section2() {
                                 <h6 className="mb-0 mt-5">"The Degree Gap helped me with writing a personal statement for a masters degree. The advice they offered helped significantly, giving great insight. I would definitely recommend them to others."</h6>
                             </div>
                         </div>
-                        <div className="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay={0}>
+                        <div className="col-lg-4 col-md-6">
                             <div className="card-testimonial rounded-4 p-5 mb-lg-0 mb-5 h-100">
                                 <div className="founder d-flex justify-content-between border-bottom pb-5">
                                     <div className="d-flex align-items-center">
@@ -120,7 +120,7 @@ export default function Section2() {
                                 <h6 className="mb-0 mt-5">"Really helpful and simplifies complicated mathematical finance and economic concepts in a friendly demeanour. Will recommend to any young person wanting to improve grades and more importantly the concepts of finance and economics."</h6>
                             </div>
                         </div>
-                        <div className="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay={200}>
+                        <div className="col-lg-4 col-md-6">
                             <div className="card-testimonial rounded-4 p-5 mb-lg-0 mb-5 h-100">
                                 <div className="founder d-flex justify-content-between border-bottom pb-5">
                                     <div className="d-flex align-items-center">
@@ -135,7 +135,7 @@ export default function Section2() {
                                 <h6 className="mb-0 mt-5">"The Degree Gap was an excellent teacher that helped me gain real grip of the complicated areas in my subjects like economics - I'd highly recommend for anyone looking to consistently perform at their best."</h6>
                             </div>
                         </div>
-                        <div className="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay={400}>
+                        <div className="col-lg-4 col-md-6">
                             <div className="card-testimonial rounded-4 p-5 mb-lg-0 mb-5 h-100">
                                 <div className="founder d-flex justify-content-between border-bottom pb-5">
                                     <div className="d-flex align-items-center">

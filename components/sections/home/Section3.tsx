@@ -10,9 +10,8 @@ export default function Section3() {
                         <div className="col-lg-12">
                             <div className="d-flex flex-wrap justify-content-between align-items-center py-4">
                                 <h4 className="mt-2 mb-5 text-anime-style-3 px-3" style={{ color: 'rgba(33, 37, 41, 0.85)' }}>
-                                We have helped hundreds of students achieve their  <br/> 
-                                dream GCSE and A-level grades. Contact us today!
-                                    
+                                Helping students achieve their dream  <br/>
+                                GCSE and A-level grades. Contact us today!
                                 </h4>
                                 <Link href="tel:+447986965776" className="btn btn-outline-secondary" style={{ backgroundColor: '#FFD700', color: '#000', borderColor: '#FFD700' }}>
                                     <span>get in touch</span>
@@ -26,7 +25,7 @@ export default function Section3() {
                         </div>
                     </div>
                     <div className="row mt-8">
-                        <div className="col-lg-4" data-aos="fade-up" data-aos-delay={100}>
+                        <div className="col-lg-4">
                             <div className="border rounded-3 p-7 text-center card mb-lg-0 mb-5">
                                 <div className="position-relative text-center icon">
                                     <div className="icon-shape rounded-circle" />
@@ -50,7 +49,7 @@ export default function Section3() {
                                 </Link>
                             </div>
                         </div>
-                        <div className="col-lg-4" data-aos="fade-up" data-aos-delay={200}>
+                        <div className="col-lg-4">
                             <div className="border rounded-3 p-7 text-center card mb-lg-0 mb-5">
                                 <div className="position-relative text-center icon">
                                     <div className="icon-shape rounded-circle" />
@@ -74,7 +73,7 @@ export default function Section3() {
                                 </Link>
                             </div>
                         </div>
-                        <div className="col-lg-4" data-aos="fade-up" data-aos-delay={300}>
+                        <div className="col-lg-4">
                             <div className="border rounded-3 p-7 text-center card mb-lg-0 mb-5">
                                 <div className="position-relative text-center icon">
                                     <div className="icon-shape rounded-circle" />

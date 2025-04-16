@@ -34,20 +34,20 @@ export default function Section1() {
                 <div className="container position-relative z-1">
                     <div className="row align-items-center">
                         <div className="col-lg-6 col-md-12">
-                            <h1 className="text-dark mt-2 text-anime-style-3">GCSE and A-level Tutoring Specialists</h1>
-                            <ul className="list-unstyled wow img-custom-anim-top">
+                            <h1 className="text-dark mt-2 display-3 fw-bold">GCSE and A-level Tutoring Specialists</h1>
+                            <ul className="list-unstyled">
                                 <li className="mb-2">✓ Pay-As-You-Go, Zero Commitments</li>
                                 <li className="mb-2">✓ 50+ Expert and Qualified Tutors</li>
                                 <li className="mb-2">✓ All Subjects covered under the GCSE and A-level syllabus</li>
                                 <li className="mb-2">✓ Custom built software built for tutoring</li>
                             </ul>
-                            <div className="mb-3 mt-4 position-relative" data-aos="fade-left" data-aos-delay={200}>
+                            <div className="mb-3 mt-4 position-relative">
                                 <Link href="tel:+447986965776" className="btn fs-7 fw-bold" style={{ backgroundColor: '#FFD700', color: '#000', border: '1px solid #FFD700', textDecoration: 'none' }}>
                                     Call us today
                                 </Link>
                             </div>
                             <div className="d-flex flex-wrap mt-8 align-items-center">
-                                <div className="d-flex align-items-center pe-5" data-aos="fade-left" data-aos-delay={0}>
+                                <div className="d-flex align-items-center pe-5">
                                     <div>
                                         <h6 className="text-dark mb-1">5/5</h6>
                                         <div className="d-flex star-group gap-1">
@@ -71,15 +71,15 @@ export default function Section1() {
                                 </div>
                             </div>
                         </div>
-                        <div className="col-lg-5 offset-lg-1 wow img-custom-anim-left d-none d-lg-block">
+                        <div className="col-lg-5 offset-lg-1 d-none d-lg-block">
                             <div className="p-4 rounded-4" style={{ 
                                 border: '1px solid #800', 
                                 background: 'rgba(136, 0, 0, 0.03)',
                                 boxShadow: '0 10px 30px rgba(136, 0, 0, 0.1), 0 1px 8px rgba(136, 0, 0, 0.2)'
                             }}>
                                 <div className="py-4 text-center">
-                                    <h4 className="mb-3" style={{ color: '#000', fontWeight: '300' }}>See how we help students reach their target grades</h4>
-                                    <p className="mb-0" style={{ fontSize: '0.95rem', color: '#000' }}>Fill in this short form and one of our experienced tutors will be in touch within 24 hours.</p>
+                                    <h4 className="mb-3" style={{ color: '#000', fontWeight: '300' }}>Book a Free Consultation</h4>
+                                    <p className="mb-0" style={{ fontSize: '0.95rem', color: '#000' }}>Get matched with an expert tutor within 24 hours.</p>
                                 </div>
                                 <form action="https://formspree.io/f/mldelvzl" method="POST" className="input-group mb-2 position-relative">
                                     <div className="row g-2">

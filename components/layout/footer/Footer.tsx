@@ -12,7 +12,7 @@ export default function Footer() {
                                 <div className="col-12">
                                     <div className="position-relative bg-light rounded-3 overflow-hidden">
                                         <div className="d-flex flex-column flex-lg-row align-items-center p-md-6 p-4 position-relative z-1">
-                                            <h5 className="text-black position-relative z-4 text-anime-style-3">
+                                            <h5 className="text-black position-relative z-4">
                                                 We help hundreds of students <br />
                                                 get their target GCSE and A-level grades.
                                             </h5>

@@ -12,7 +12,7 @@ export default function Section8() {
                                 <path d="M12.5001 40C15.1553 40 17.3078 37.9013 17.3078 35.3125C17.3078 32.7237 15.1553 30.625 12.5001 30.625C9.84486 30.625 7.69238 32.7237 7.69238 35.3125C7.69238 37.9013 9.84486 40 12.5001 40Z" fill="#0D6EFD" />
                                 <path d="M12.5 0C5.60745 0 0 5.46727 0 12.1875V13.3594H9.61539V12.1875C9.61539 10.6366 10.9094 9.375 12.5 9.375C14.0906 9.375 15.3846 10.6366 15.3846 12.1875C15.3846 13.0139 15.0126 13.7961 14.3638 14.3337L7.69231 19.8639V28.2812H17.3077V24.1986L20.591 21.477C23.393 19.1555 25 15.7698 25 12.1875C25 5.46727 19.3925 0 12.5 0Z" fill="#0D6EFD" />
                             </svg>
-                            <h3 className="text-dark my-3 text-anime-style-3">
+                            <h3 className="text-dark my-3">
                             We'll show you exactly how we help students hit their target grades.<br />
                             </h3>
                             <p className="text-anime-style-1">Fill in this short form and one of our experienced tutors will be in touch within 24 hours to discuss how we can help. No commitment — just honest advice and a clear plan forward. OR just call us now!</p>
@@ -27,7 +27,7 @@ export default function Section8() {
                                 </Link>
                             </div>
                         </div>
-                        <div className="col-lg-6 offset-lg-1 wow img-custom-anim-left">
+                        <div className="col-lg-6 offset-lg-1">
                             <form action="https://formspree.io/f/mldelvzl" method="POST" className="input-group mb-3 mt-4 position-relative">
                                 <div className="row">
                                     <div className="col-md-6">
@@ -49,7 +49,7 @@ export default function Section8() {
                                         <textarea name="message" id="message2" cols={30} rows={8} className="py-3 form-control website rounded-4 border-dark" placeholder="Enter here" required />
                                     </div>  
                                     <div className="col-12 mt-5">
-                                        <button aria-label="get in touch" className="btn btn-primary d-flex align-items-center" type="submit" data-aos="fade-zoom-in" data-aos-delay={100} style={{ backgroundColor: 'gold', color: 'black', borderColor: 'gold' }}>
+                                        <button aria-label="get in touch" className="btn btn-primary d-flex align-items-center" type="submit" style={{ backgroundColor: 'gold', color: 'black', borderColor: 'gold' }}>
                                             <span style={{ color: 'black' }}>get in touch</span>
                                             <svg xmlns="http://www.w3.org/2000/svg" width={16} height={16} viewBox="0 0 16 16" fill="none" className="ms-2">
                                                 <g clipPath="url(#clip0_886_362)">

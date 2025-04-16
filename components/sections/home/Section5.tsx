@@ -9,12 +9,12 @@ export default function Section5() {
                     <div className="row">
                         <div className="text-center pb-80">
                             <p className="text-dark btn-text rounded-3 border border-primary px-2 py-1 bg-white pt-100 d-inline-block mb-3">our plans</p>
-                            <h2 className="text-anime-style-3">Flexible Pricing With No Commitments</h2>
+                            <h2>Flexible Pricing With No Commitments</h2>
                         </div>
                     </div>
                     <div className="row g-lg-5 g-4">
                         <div className="col-lg-4">
-                            <div className="card-pricing bg-white rounded-4 border p-md-6 p-4" data-aos="fade-up" data-aos-delay={0}>
+                            <div className="card-pricing bg-white rounded-4 border p-md-6 p-4">
                                 <span className="text-primary btn-text">Standard starts from</span>
                                 <h1 className="mb-3">£40</h1>
                                 <p className="fs-7">Tutors from top universities, newly onboarded.</p>
@@ -43,7 +43,7 @@ export default function Section5() {
                             </div>
                         </div>
                         <div className="col-lg-4">
-                            <div className="card-pricing bg-white rounded-4 border border-primary p-md-6 p-4 position-relative" data-aos="fade-up" data-aos-delay={200}>
+                            <div className="card-pricing bg-white rounded-4 border border-primary p-md-6 p-4 position-relative">
                                 <span className="text-primary btn-text">Premium starts from</span>
                                 <h1 className="mb-3">£50+ </h1>
                                 <p className="fs-7">Extremely qualified tutors with 2+ years of experience.</p>
@@ -73,7 +73,7 @@ export default function Section5() {
                             </div>
                         </div>
                         <div className="col-lg-4">
-                            <div className="card-pricing bg-white rounded-4 border p-md-6 p-4" data-aos="fade-up" data-aos-delay={400}>
+                            <div className="card-pricing bg-white rounded-4 border p-md-6 p-4">
                                 <span className="text-primary btn-text">Advanced starts from</span>
                                 <h1 className="mb-3">£60+</h1>
                                 <p className="fs-7">The best of the best tutors, top 0.5%. These includes medalists, scholarship winners and head of years</p>
@@ -104,7 +104,7 @@ export default function Section5() {
                     </div>
                     <div className="row mt-8">
                         <div className="d-flex flex-wrap align-items-center justify-content-center gap-5">
-                            <div className="d-flex align-items-center gap-3" data-aos="fade-up" data-aos-delay={200}>
+                            <div className="d-flex align-items-center gap-3">
                                 <div className="d-block">
                                     <svg className="fill-primary" xmlns="http://www.w3.org/2000/svg" width={18} height={18} viewBox="0 0 18 18" fill="none">
                                         <g clipPath="url(#clip0_349_1213)">
@@ -119,7 +119,7 @@ export default function Section5() {
                                 </div>
                                 <p className="text-dark mb-0">Pay as you go flexibility </p>
                             </div>
-                            <div className="d-flex align-items-center gap-3" data-aos="fade-up" data-aos-delay={400}>
+                            <div className="d-flex align-items-center gap-3">
                                 <div className="d-block">
                                     <svg className="fill-primary" xmlns="http://www.w3.org/2000/svg" width={18} height={18} viewBox="0 0 18 18" fill="none">
                                         <g clipPath="url(#clip0_349_1225)">
@@ -132,7 +132,7 @@ export default function Section5() {
                                 </div>
                                 <p className="text-dark mb-0">Chose your frequency</p>
                             </div>
-                            <div className="d-flex align-items-center gap-3" data-aos="fade-up" data-aos-delay={600}>
+                            <div className="d-flex align-items-center gap-3">
                                 <div className="d-block">
                                     <svg className="fill-primary" xmlns="http://www.w3.org/2000/svg" width={18} height={18} viewBox="0 0 18 18" fill="none">
                                         <g clipPath="url(#clip0_349_1230)">

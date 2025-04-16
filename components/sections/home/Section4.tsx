@@ -9,17 +9,17 @@ export default function Section4() {
                     <div className="row align-items-center">
                         <div className="col-lg-6 order-3 order-lg-1 mt-lg-0 mt-8">
                             <div className="position-relative d-inline-block">
-                                <img className="rounded-3 position-relative z-1 wow img-custom-anim-left" src="assets/imgs/pages/seo-agency/page-home/section-4/img-1.png" alt="The Degree Gap" />
-                                <img data-aos="fade-up" className="rounded-3 position-absolute top-100 start-100 translate-middle d-none d-md-block" src="assets/imgs/pages/seo-agency/page-home/section-4/img-2.png" alt="The Degree Gap" />
+                                <img className="rounded-3 position-relative z-1" src="assets/imgs/pages/seo-agency/page-home/section-4/img-1.png" alt="The Degree Gap" />
+                                <img className="rounded-3 position-absolute top-100 start-100 translate-middle d-none d-md-block" src="assets/imgs/pages/seo-agency/page-home/section-4/img-2.png" alt="The Degree Gap" />
                                 <img className="rounded-3 position-absolute start-100 top-0 translate-middle z-0" src="assets/imgs/pages/seo-agency/page-home/section-4/pattern.png" alt="The Degree Gap" />
                                 <div className="pattern-2 position-absolute top-100 start-0 translate-middle" />
                             </div>
                         </div>
                         <div className="col-lg-6 col-md-12 order-2 ">
                             <span className="text-dark btn-text rounded-3 border border-primary px-2 py-1 bg-white">core features</span>
-                            <h2 className="text-dark my-3 text-anime-style-3">A purpose built platform for tutoring services!</h2>
-                            <p className="pb-4 text-anime-style-1">We have deisgned the platform with the needs of tutors in mind. We have a range of features that make it easy to manage your business.</p>
-                            <div className="d-flex align-items-center mb-3" data-aos="fade-up" data-aos-delay={200}>
+                            <h2 className="text-dark my-3">We help hundreds of students</h2>
+                            <p className="pb-4">We have deisgned the platform with the needs of tutors in mind. We have a range of features that make it easy to manage your business.</p>
+                            <div className="d-flex align-items-center mb-3">
                                 <svg className="fill-primary" xmlns="http://www.w3.org/2000/svg" width={18} height={18} viewBox="0 0 18 18" fill="none">
                                     <g clipPath="url(#clip0_349_1177)">
                                         <path d="M14.5562 5.26195L11.5845 4.83012L10.2555 2.13734C9.74239 1.09749 8.25807 1.0971 7.74471 2.1373L6.41571 4.83012L3.44399 5.26195C2.29649 5.42866 1.83753 6.84014 2.66813 7.64986L4.81849 9.74594L4.31087 12.7056C4.11484 13.8484 5.31528 14.7211 6.34216 14.1815L9.00011 12.784L11.6581 14.1815C12.6862 14.7218 13.885 13.8458 13.6893 12.7056L13.1817 9.74594L15.3321 7.64986C16.1624 6.84042 15.7042 5.42876 14.5562 5.26195Z" fill="#0D6EFD" />
@@ -32,7 +32,7 @@ export default function Section4() {
                                 </svg>
                                 <p className="text-dark mb-1 ms-2">Collaborative whiteboard allows for full functionality</p>
                             </div>
-                            <div className="d-flex align-items-center pb-4" data-aos="fade-up" data-aos-delay={400}>
+                            <div className="d-flex align-items-center pb-4">
                                 <svg className="fill-primary" xmlns="http://www.w3.org/2000/svg" width={19} height={19} viewBox="0 0 19 19" fill="none">
                                     <g clipPath="url(#clip0_349_1198)">
                                         <path d="M9.72754 0.558594C7.11054 0.558594 4.98145 2.68769 4.98145 5.30469C4.98145 7.92168 7.11054 10.0508 9.72754 10.0508C12.3445 10.0508 14.4736 7.92168 14.4736 5.30469C14.4736 2.68769 12.3445 0.558594 9.72754 0.558594Z" fill="#0D6EFD" />
