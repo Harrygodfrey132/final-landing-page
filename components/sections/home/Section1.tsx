@@ -37,9 +37,12 @@ export default function Section1() {
                         <div className="col-lg-6 col-md-12">
                             <h1 className="text-dark mt-2 display-1 fw-bold" style={{ fontSize: '4rem', lineHeight: '1.2', marginBottom: '1.5rem' }}>
                                 GCSE and A-level Tutoring <span 
+                                    onMouseEnter={() => setIsHovered(true)}
+                                    onMouseLeave={() => setIsHovered(false)}
                                     style={{ 
-                                        color: '#4CAF50',
-                                        cursor: 'pointer'
+                                        color: '#32CD32',
+                                        cursor: 'pointer',
+                                        fontWeight: '600'
                                     }}
                                 >Specialists</span>
                             </h1>
