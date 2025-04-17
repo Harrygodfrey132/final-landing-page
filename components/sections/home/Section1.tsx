@@ -4,6 +4,7 @@ import Link from "next/link";
 import { useState, useEffect } from "react";
 
 export default function Section1() {
+    const [isHovered, setIsHovered] = useState(false);
     const subjects = [
         "Master GCSE Maths with Expert Guidance -> ",
         "Excel in GCSE English Literature & Language -> ",
@@ -34,7 +35,17 @@ export default function Section1() {
                 <div className="container position-relative z-1">
                     <div className="row align-items-center">
                         <div className="col-lg-6 col-md-12">
-                            <h1 className="text-dark mt-2 display-1 fw-bold" style={{ fontSize: '4rem', lineHeight: '1.2', marginBottom: '1.5rem' }}>GCSE and A-level Tutoring Specialists</h1>
+                            <h1 className="text-dark mt-2 display-1 fw-bold" style={{ fontSize: '4rem', lineHeight: '1.2', marginBottom: '1.5rem' }}>
+                                GCSE and A-level Tutoring <span 
+                                    onMouseEnter={() => setIsHovered(true)}
+                                    onMouseLeave={() => setIsHovered(false)}
+                                    style={{ 
+                                        transition: 'color 0.3s ease',
+                                        color: isHovered ? '#4CAF50' : 'inherit',
+                                        cursor: 'pointer'
+                                    }}
+                                >Specialists</span>
+                            </h1>
                             <ul className="list-unstyled">
                                 <li className="mb-2">✓ Pay-As-You-Go, Zero Commitments</li>
                                 <li className="mb-2">✓ 50+ Expert and Qualified Tutors</li>

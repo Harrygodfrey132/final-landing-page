@@ -9,15 +9,15 @@ export default function Section4() {
                     <div className="row align-items-center">
                         <div className="col-lg-6 order-3 order-lg-1 mt-lg-0 mt-8">
                             <div className="position-relative d-inline-block">
-                                <img className="rounded-3 position-relative z-1" src="assets/imgs/pages/seo-agency/page-home/section-4/img-1.png" alt="The Degree Gap" />
-                                <img className="rounded-3 position-absolute top-100 start-100 translate-middle d-none d-md-block" src="assets/imgs/pages/seo-agency/page-home/section-4/img-2.png" alt="The Degree Gap" />
+                                <img className="rounded-3 position-relative z-1" src="assets/imgs/pages/seo-agency/page-customer/Oasis-Hadley-Event.jpeg" alt="Oasis Hadley Event" style={{ maxWidth: "400px", width: "100%", height: "auto" }} />
+                                <img className="rounded-3 position-absolute top-100 start-100 translate-middle d-none d-md-block" src="assets/imgs/pages/seo-agency/page-home/section-1/ernulf-Academy-Presentation.JPG" alt="Ernulf Academy Presentation" style={{ width: "400px", height: "auto" }} />
                                 <img className="rounded-3 position-absolute start-100 top-0 translate-middle z-0" src="assets/imgs/pages/seo-agency/page-home/section-4/pattern.png" alt="The Degree Gap" />
                                 <div className="pattern-2 position-absolute top-100 start-0 translate-middle" />
                             </div>
                         </div>
                         <div className="col-lg-6 col-md-12 order-2 ">
                             <span className="text-dark btn-text rounded-3 border border-primary px-2 py-1 bg-white">core features</span>
-                            <h2 className="text-dark my-3">We help hundreds of students</h2>
+                            <h2 className="text-dark my-3">A platform specially built for GCSE and A-levels</h2>
                             <p className="pb-4">We have deisgned the platform with the needs of tutors in mind. We have a range of features that make it easy to manage your business.</p>
                             <div className="d-flex align-items-center mb-3">
                                 <svg className="fill-primary" xmlns="http://www.w3.org/2000/svg" width={18} height={18} viewBox="0 0 18 18" fill="none">
@@ -41,7 +41,7 @@ export default function Section4() {
                                 </svg>
                                 <p className="text-dark mb-1 ms-2"> Easy to use chat functionality allows for quick communication with tutors</p>
                             </div>
-                            <a href="tel:+447986965776" className="btn btn-dark mt-4">
+                            <a href="tel: +447859965776" className="btn btn-warning mt-4">
                                 <span>get in touch</span>
                                 <svg xmlns="http://www.w3.org/2000/svg" width={16} height={16} viewBox="0 0 16 16" fill="none">
                                     <g clipPath="url(#clip0_828_193)">
