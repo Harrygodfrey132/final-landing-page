@@ -28,8 +28,8 @@ export default function Home() {
 						
 						<Section1 />
 						<Section3 />
-						<Section8 />
 						<Section7 />
+						<Section8 />
 						<Section5 />
 						<Section4 />
 					</article>
