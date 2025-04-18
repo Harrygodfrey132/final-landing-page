@@ -71,7 +71,9 @@ export default function Footer() {
                                                 </g>
                                             </svg>
                                         </div>
-                                        <p className="text-dark">07859965776</p>
+                                        <Link href="tel:+447859965776" className="d-flex gap-2">
+                                            <p className="text-dark">+447859965776</p>
+                                        </Link>
                                     </Link>
                                     <Link href="#" className="d-flex gap-2">
                                         <div className="icon">
