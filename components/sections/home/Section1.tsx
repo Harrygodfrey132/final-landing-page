@@ -47,16 +47,11 @@ export default function Section1() {
                                 >Specialists</span>
                             </h1>
                             <ul className="list-unstyled">
-                                <li className="mb-2">✓ Pay-As-You-Go, Zero Commitments</li>
-                                <li className="mb-2">✓ 50+ Expert and Qualified Tutors</li>
-                                <li className="mb-2">✓ All Subjects covered under the GCSE and A-level syllabus</li>
-                                <li className="mb-2">✓ Custom built tutoring platform</li>
+                                <li className="mb-2" style={{ fontSize: '1.2rem', fontWeight: '500' }}>✓ Pay-As-You-Go, Zero Commitments</li>
+                                <li className="mb-2" style={{ fontSize: '1.2rem', fontWeight: '500' }}>✓ 50+ Expert and Qualified Tutors</li>
+                                <li className="mb-2" style={{ fontSize: '1.2rem', fontWeight: '500' }}>✓ All Subjects covered under the GCSE and A-level syllabus</li>
+                                <li className="mb-2" style={{ fontSize: '1.2rem', fontWeight: '500' }}>✓ Custom built tutoring platform</li>
                             </ul>
-                            <div className="mb-3 mt-4 position-relative">
-                                <Link href="tel:+447986965776" className="btn fs-7 fw-bold" style={{ backgroundColor: '#FFD700', color: '#000', border: '1px solid #FFD700', textDecoration: 'none' }}>
-                                    Call us today
-                                </Link>
-                            </div>
                             <div className="d-flex flex-wrap mt-8 align-items-center">
                                 <div className="d-flex align-items-center pe-5">
                                     <div>
