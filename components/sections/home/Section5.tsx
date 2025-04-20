@@ -19,7 +19,7 @@ export default function Section5() {
                                 <h1 className="mb-3">£40</h1>
                                 <p className="fs-7">Tutors from top universities, newly onboarded.</p>
                                 <Link href="tel:+447859965776" className="btn btn-outline-dark w-100 mb-6">
-                                Call us now!
+                                Call us now
                                 </Link>
                                 <span className="btn-text">What to expect:</span>
                                 <ul className="list-unstyled mt-3 mb-0">
@@ -45,10 +45,10 @@ export default function Section5() {
                         <div className="col-lg-4">
                             <div className="card-pricing bg-white rounded-4 border border-primary p-md-6 p-4 position-relative">
                                 <span className="text-primary btn-text">Premium starts from</span>
-                                <h1 className="mb-3">£50+ </h1>
+                                <h1 className="mb-3">£50 </h1>
                                 <p className="fs-7">Extremely qualified tutors with 2+ years of experience.</p>
                                 <Link href="tel:+447859965776" className="btn btn-primary border-dark w-100 mb-6">
-                                    Call us now!
+                                    Call us now
                                 </Link>
                                 <span className="btn-text">What's included:</span>
                                 <ul className="list-unstyled mt-3 mb-0">
@@ -75,10 +75,10 @@ export default function Section5() {
                         <div className="col-lg-4">
                             <div className="card-pricing bg-white rounded-4 border p-md-6 p-4">
                                 <span className="text-primary btn-text">Advanced starts from</span>
-                                <h1 className="mb-3">£60+</h1>
+                                <h1 className="mb-3">£60</h1>
                                 <p className="fs-7">The best of the best tutors, top 0.5%. These includes medalists, scholarship winners and head of years</p>
                                 <Link href="tel:+447859965776" className="btn btn-outline-dark w-100 mb-6">
-                                    Call us now!
+                                    Call us now
                                 </Link>
                                 <span className="btn-text">What's included:</span>
                                 <ul className="list-unstyled mt-3 mb-0">
