@@ -35,7 +35,7 @@ export default function Section1() {
                 <div className="container position-relative z-1">
                     <div className="row align-items-center">
                         <div className="col-lg-6 col-md-12">
-                            <h1 className="text-dark mt-0 display-1 fw-bold" style={{ fontSize: 'clamp(4rem, 5vw, 4.5rem)', lineHeight: '1.2', marginBottom: '1.5rem' }}>
+                            <h1 className="text-dark mt-1 display-1 fw-bold" style={{ fontSize: 'clamp(4rem, 5vw, 4.5rem)', lineHeight: '1.2', marginBottom: '1.5rem' }}>
                                 GCSE and A-level Tutoring <span 
                                     onMouseEnter={() => setIsHovered(true)}
                                     onMouseLeave={() => setIsHovered(false)}
@@ -52,8 +52,8 @@ export default function Section1() {
                                 <li className="mb-2" style={{ fontSize: '1.2rem', fontWeight: '500' }}>✓ All Subjects covered under the GCSE and A-level syllabus</li>
                                 <li className="mb-2" style={{ fontSize: '1.2rem', fontWeight: '500' }}>✓ Custom built tutoring platform</li>
                             </ul>
-                            <div className="d-flex flex-wrap mt-8 align-items-center">
-                                <div className="d-flex align-items-center pe-5">
+                            <div className="d-flex flex-wrap mt-4 align-items-center">
+                                <div className="d-flex align-items-center pe-5 pb-4">
                                     <div>
                                         <h6 className="text-dark mb-1">5/5</h6>
                                         <div className="d-flex star-group gap-1">
@@ -66,8 +66,8 @@ export default function Section1() {
                                     </div>
                                     <div className="d-flex align-items-center ms-4">
                                         <div className="d-flex align-items-center gap-1">
-                                            <img className="icon-shape rounded-circle avatar-1" src="assets/imgs/pages/seo-agency/page-home/section-1/avatar-1.png" alt="Student Review" />
-                                            <img className="icon-shape rounded-circle avatar-2" src="assets/imgs/pages/seo-agency/page-home/section-1/avatar-2.png" alt="Student Review" />
+                                            <img className="icon-shape rounded-circle avatar-1" src="assets/imgs/pages/seo-agency/page-home/section-1/Harry-Cofounder.png" alt="Harry - Cofounder" />
+                                            <img className="icon-shape rounded-circle avatar-2" src="assets/imgs/pages/seo-agency/page-home/section-1/Joe-Cofounder.png" alt="Joe - Cofounder" />
                                         </div>
                                         <div className="ms-3">
                                             <h6 className="mb-0">50+</h6>
@@ -93,19 +93,35 @@ export default function Section1() {
                                             <label htmlFor="username" className="text-sm-medium fw-bold" style={{ color: '#000' }}>
                                                 full name
                                             </label>
-                                            <input type="text" className="py-2 form-control username rounded-4" name="name" placeholder="Enter here" id="username" style={{ border: '1px solid #800', background: 'rgba(255, 255, 255, 0.9)' }} required />
+                                            <input type="text" className="py-2 form-control username rounded-4" name="name" placeholder="Enter here" id="username" style={{ border: '1px solid #800', background: 'rgba(255, 255, 255, 0.9)', textIndent: '0', paddingLeft: '12px' }} required />
                                         </div>
                                         <div className="col-md-6">
                                             <label htmlFor="phone" className="text-sm-medium fw-bold" style={{ color: '#000' }}>
                                                 phone number
                                             </label>
-                                            <input type="tel" className="py-2 form-control phone rounded-4" name="phone" placeholder="Enter here" id="phone" style={{ border: '1px solid #800', background: 'rgba(255, 255, 255, 0.9)' }} required />
+                                            <input type="tel" className="py-2 form-control phone rounded-4" name="phone" placeholder="Enter here" id="phone" style={{ border: '1px solid #800', background: 'rgba(255, 255, 255, 0.9)', textIndent: '0', paddingLeft: '12px' }} required />
                                         </div>
                                         <div className="col-12 mt-2">
                                             <label htmlFor="message" className="text-sm-medium fw-bold" style={{ color: '#000' }}>
                                                 message
                                             </label>
-                                            <textarea name="message" id="message" cols={30} rows={4} className="py-2 form-control website rounded-4" placeholder="Enter here" style={{ border: '1px solid #800', background: 'rgba(255, 255, 255, 0.9)' }} required />
+                                            <textarea 
+                                                name="message" 
+                                                id="message" 
+                                                cols={30} 
+                                                rows={4} 
+                                                className="py-2 form-control website rounded-4" 
+                                                placeholder="Enter here" 
+                                                style={{ 
+                                                    border: '1px solid #800', 
+                                                    background: 'rgba(255, 255, 255, 0.9)', 
+                                                    textIndent: '0', 
+                                                    paddingLeft: '12px',
+                                                    paddingTop: '8px',
+                                                    resize: 'none'
+                                                }} 
+                                                required 
+                                            />
                                         </div>  
                                         <div className="col-12 mt-3">
                                             <Link href="https://cal.com/thedegreegap/15min" className="btn d-flex align-items-center w-100 justify-content-center py-2" style={{ backgroundColor: '#FFD700', color: 'black', borderColor: '#FFD700', fontWeight: '600' }}>
