@@ -31,11 +31,11 @@ export default function Section1() {
     return (
         <>
             {/*seo-agency home section 1*/}
-            <section className="seo-agency-home-section-1 position-relative overflow-hidden py-lg-130 py-8 bg-1">
+            <section className="seo-agency-home-section-1 position-relative overflow-hidden py-lg-130 py-4 bg-1">
                 <div className="container position-relative z-1">
                     <div className="row align-items-center">
                         <div className="col-lg-6 col-md-12">
-                            <h1 className="text-dark mt-2 display-1 fw-bold" style={{ fontSize: '4rem', lineHeight: '1.2', marginBottom: '1.5rem' }}>
+                            <h1 className="text-dark mt-0 display-1 fw-bold" style={{ fontSize: 'clamp(4rem, 5vw, 4.5rem)', lineHeight: '1.2', marginBottom: '1.5rem' }}>
                                 GCSE and A-level Tutoring <span 
                                     onMouseEnter={() => setIsHovered(true)}
                                     onMouseLeave={() => setIsHovered(false)}
