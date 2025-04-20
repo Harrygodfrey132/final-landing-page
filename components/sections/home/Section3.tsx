@@ -14,7 +14,7 @@ export default function Section3() {
                                 Start today with a free call!
                                 </h4>
                                 <Link href="tel:+447859965776" className="btn btn-outline-secondary ms-4" style={{ backgroundColor: '#FFD700', color: '#000', borderColor: '#FFD700' }}>
-                                    <span>Get in touch!</span>
+                                    <span>Get in touch</span>
                                 </Link>
                             </div>
                         </div>

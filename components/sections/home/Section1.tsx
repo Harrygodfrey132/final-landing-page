@@ -108,7 +108,7 @@ export default function Section1() {
                                             <textarea name="message" id="message" cols={30} rows={4} className="py-2 form-control website rounded-4" placeholder="Enter here" style={{ border: '1px solid #800', background: 'rgba(255, 255, 255, 0.9)' }} required />
                                         </div>  
                                         <div className="col-12 mt-3">
-                                            <Link href="https://cal.com/astrax" className="btn d-flex align-items-center w-100 justify-content-center py-2" style={{ backgroundColor: '#FFD700', color: 'black', borderColor: '#FFD700', fontWeight: '600' }}>
+                                            <Link href="https://cal.com/thedegreegap/15min" className="btn d-flex align-items-center w-100 justify-content-center py-2" style={{ backgroundColor: '#FFD700', color: 'black', borderColor: '#FFD700', fontWeight: '600' }}>
                                                 <span style={{ color: 'black' }}>get in touch</span>
                                                 <svg xmlns="http://www.w3.org/2000/svg" width={16} height={16} viewBox="0 0 16 16" fill="none" className="ms-2">
                                                     <g clipPath="url(#clip0_886_362)">
