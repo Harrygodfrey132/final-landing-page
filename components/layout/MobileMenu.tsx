@@ -102,7 +102,7 @@ export default function MobileMenu({ isMobileMenu, handleMobileMenu }: MobileMen
                                     <span className="opacity-50">Email:</span> <Link href="mailto:admin@thedegreegap.com">admin@thedegreegap.com</Link>
                                 </li>
                                 <li>
-                                    <span className="opacity-50">Phone:</span> <Link href="tel:+447986975776">+447986975776</Link>
+                                    <span className="opacity-50">Phone:</span> <Link href="tel:+447859965776">+447859965776</Link>
                                 </li>
                             </ul>
                         </div>
