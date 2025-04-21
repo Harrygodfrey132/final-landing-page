@@ -39,7 +39,7 @@ export default function Section3() {
                                         </div>
                                     </div>
                                     <h6 className="mt-6 mb-3">GCSE Tutoring</h6>
-                                    <p className="mb-5">3 in 4 students increase their performance by up to three grades with personalised tutoring. Join the successful students achieving grades 7-9.</p>
+                                    <p className="mb-5">75% of our students improve by up to three grades. Join our successful students achieving top grades (7-9).</p>
                                     <span className="link text-uppercase btn-text d-block">
                                         Talk to us about GCSEs
                                     </span>
