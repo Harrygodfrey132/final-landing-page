@@ -40,7 +40,10 @@ export default function Footer() {
                                             <p className="hover-effect-1 text-dark">Terms &amp; Conditions</p>
                                         </Link>
                                         <Link href="https://www.thedegreegap.com/privacy-policy">
-                                            <p className="hover-effect-1 text-dark ">Pirvacy Policy</p>
+                                            <p className="hover-effect-1 text-dark ">Privacy Policy</p>
+                                        </Link>
+                                        <Link href="https://www.thedegreegap.com/apply-to-teach">
+                                            <p className="hover-effect-1 text-dark ">Tutoring Positions</p>
                                         </Link>
                                     </div>
                                 </div>

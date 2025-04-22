@@ -59,7 +59,7 @@ export default function MobileMenu({ isMobileMenu, handleMobileMenu }: MobileMen
                                             <Link href="#">Subjects</Link>
                                             <ul className="sub-menu" style={{ display: `${isAccordion == 1 ? "block" : "none"}` }}>
                                                 <li>
-                                                    <Link href="/services">GCSE Maths</Link>
+                                                    <Link href="https://www.thedegreegap.com/teachers/languages/GCSE-Maths">GCSE Maths</Link>
                                                 </li>
                                                 <li>
                                                     <Link href="https://www.thedegreegap.com/teachers/languages/GCSE-English">GCSE English</Link>
