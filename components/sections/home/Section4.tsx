@@ -17,8 +17,8 @@ export default function Section4() {
                         </div>
                         <div className="col-lg-6 col-md-12 order-2 ">
                             <span className="text-dark btn-text rounded-3 border border-primary px-2 py-1 bg-white">core features</span>
-                            <h2 className="text-dark my-3">A platform built by tutors for GCSE and A-level tutoring </h2>
-                            <p className="pb-4">We have designed the platform with the needs of tutors and studentsin mind. We have a range of features that make it easy to conduct GCSE and A-level tutoring.</p>
+                            <h2 className="text-dark my-3">Expert-Led Platform for GCSE and A-Level Success</h2>
+                            <p className="pb-4">We have designed the platform with the needs of tutors and students in mind. We have a range of features that make it easy to conduct GCSE and A-level tutoring.</p>
                             <div className="d-flex align-items-center mb-3">
                                 <svg className="fill-primary" xmlns="http://www.w3.org/2000/svg" width={18} height={18} viewBox="0 0 18 18" fill="none">
                                     <g clipPath="url(#clip0_349_1177)">
